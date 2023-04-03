@@ -1,4 +1,4 @@
-# Stereo Robot Navigation
+# Visual Inspection of Motorcycle Connecting Rods
 
 Project work for the class Computer Vision M, UNIBO. The objective is the development of a software system aimed at visual inspection of motorcycle connecting rods. The system must extract valuable features from the images, and be robust to noise and obstruction.
 
